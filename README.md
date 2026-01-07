@@ -10,7 +10,7 @@ Due to file size limitations, the dataset is not included in this repository.
 You can download it from Kaggle:
 - [Online Retail II Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset?resource=download)
 
-After downloading, place the Excel file in the `archive/` folder.
+After downloading, place the Excel file in the same folder with the customer_purchase_analysis.ipynb.
 
 ## Tools Used
 - Python
